@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fordnox/fordnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Andrius Putna. Since Y2K in love with web. Tinkering with Web and now AI. Bridging business and technology to drive meaningful impact. Combining expertise in customer experience, technology, and business strategy to deliver valuable insights. Open-source contributor and investor.
 
-Here are some ideas to get you started:
+## Projects currenty working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* https://springwater.tech/
+* https://schemahub.ai/
+* https://turion.ai/
+* https://1vps.com/
+
+## 📬 Get in Touch
+- GitHub: [fordnox](https://github.com/fordnox)
+- Email: andrius.putna@example.com
+
+## 🚀 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fordnox)](https://git.io/streak-stats)
