@@ -7,10 +7,11 @@ I am Andrius Putna. Since Y2K in love with web. Tinkering with Web and now AI. B
 * https://springwater.tech/
 * https://boxbilling.com/
 * https://1vps.com/
+* https://juplo.com/
 * https://turion.ai/
-* https://kamook.com/
 * https://schemahub.ai/
 * https://gtlane.com/
+* https://harvis.dev/
 
 ## 📬 Get in Touch
 - GitHub: [fordnox](https://github.com/fordnox)
